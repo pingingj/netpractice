@@ -22,8 +22,9 @@ The project involves solving multiple networking problems, where we have to chan
 open your preferred web browser to the dedicated page.
 
 4. This interface should open in your web browser:
-
-![image of NetPractice](image.png)
+<p align="center">
+<img src="image(1).png" alt="Penguin" width="500" height="500" align="absmiddle">
+</p>
 
 ### Submission
 
